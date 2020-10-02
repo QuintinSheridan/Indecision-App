@@ -12,4 +12,4 @@ To compile the code into JSX using babel run:
 `npm build`
 
 To deploy a development server run:
-`npm run dev-server'
+`npm run dev-server`
